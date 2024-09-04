@@ -2,7 +2,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuduhelili)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuduhelili)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuduhelili)
 
 
 
