@@ -1,10 +1,6 @@
-## Hi ! there 👋  I`m Harry
-
+## Hi ! there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuduhelili)   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuduhelili)
-
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abuduhelili/abuduhelili/output/github-contribution-grid-snake-dark.svg">
